@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋</h1>
-#### Sociais
+
 <a href="https://github.com/GiuliaMarcela" target="_blank">
 <img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:giuliamendes67@gmail.com" target="_blank">
