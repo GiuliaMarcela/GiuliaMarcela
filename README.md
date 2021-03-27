@@ -23,9 +23,8 @@ I continue to study Java on the backend, Typescript and React on the frontend. I
 If you want to connect with me on social media, here is my linkedin and twitter. 
 Or you can send me an email! Say hello! 
 
-<p align='center'>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giuliamendes67/)](https://www.linkedin.com/in/giuliamendes67/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giuliamendes67@gmail.com)](mailto:giuliamendes67@gmail.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/giu_marcela18)](https://twitter.com/giu_marcela18)
-</p>
+
 
