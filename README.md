@@ -1,23 +1,31 @@
-# Hello! 👋
-
+### Hello There! 👋
+#### About me 
 <p align='justify'>
-Me chamo Giulia Marcela, nasci no dia 20 de Novembro de 1998, em Petrópolis - RJ. Sou apaixonada por tecnologia, games e artes. E na programação, encontrei uma forma de juntar todas as minhas paixões. 
+My name is Giulia Marcela and I'm 22 years old. I have always been passionate about technology, games and the arts. In 2020 I decided to start programming, when I could see up close how magnificent technology is, I found ways to unite my hobbies and my passions. I want to build a career based on the development of systems aimed at creating facilities for society and trying to make the world a better place. 
 </p>
 
-- 👩🏾‍💻 Atualmente, estudante da Residência de Software, do SerraTec. 
-- 🔎 Procurando por novas oportunidades. 
-- ⏰ Checo meu e-mail toda manhã/noite, caso queira entrar em contato, estou aqui. E também, nas redes sociais abaixo. 
+#### What am I doing? 
+
+I continue to study Java on the backend, Typescript and React on the frontend. In November 2020 I got my first RPA job at iLAB Software Quality Assurance and focused on studying about quality assurance.
+
+
+<details open>
+    <summary>⚙ <b>GitHub Statistics</b>: </summary>
+    <br>
+    <p align="center">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GiuliaMarcela&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GiuliaMarcela&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    </p>
+</details>
+
+#### How to get in touch?
+
+If you want to connect with me on social media, here is my linkedin and twitter. 
+Or you can send me an email! Say hello! 
 
 <p align='center'>
-<a href="https://github.com/GiuliaMarcela" target="_blank">
-<img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:giuliamendes67@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://twitter.com/giu_marcela18" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://www.instagram.com/naoseiserio" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a target="_blank" href="https://www.linkedin.com/in/giulia-mendes-184ab11b6/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giuliamendes67/)](https://www.linkedin.com/in/giuliamendes67/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giuliamendes67@gmail.com)](mailto:giuliamendes67@gmail.com/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/giu_marcela18)](https://twitter.com/giu_marcela18)
 </p>
-
 
